@@ -1,0 +1,12 @@
+C:\Users\PC3020\source\repos\booksManager\booksManager\bin\Debug\booksManager.exe.config
+C:\Users\PC3020\source\repos\booksManager\booksManager\bin\Debug\booksManager.exe
+C:\Users\PC3020\source\repos\booksManager\booksManager\bin\Debug\booksManager.pdb
+C:\Users\PC3020\source\repos\booksManager\booksManager\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.csprojAssemblyReference.cache
+C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.Form1.resources
+C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.Properties.Resources.resources
+C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.csproj.GenerateResource.cache
+C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.csproj.CoreCompileInputs.cache
+C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.csproj.CopyComplete
+C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.exe
+C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.pdb
