@@ -10,3 +10,8 @@ C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.cs
 C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.csproj.CopyComplete
 C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.exe
 C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.pdb
+C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.newBorrowForm.resources
+C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.newUser.resources
+C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.newBook.resources
+C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.newBookType.resources
+C:\Users\PC3020\source\repos\booksManager\booksManager\obj\Debug\booksManager.returnBookForm.resources
